@@ -32,5 +32,5 @@ The following image processing techniques are implemented in this project:
 6. **Panoramic Image Creation**  
    Panoramic image creation using multiple images
 
-# NOTE: Image paths may need to be updated for local environment
+## NOTE: Image paths may need to be updated for local environment
 
