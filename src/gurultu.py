@@ -97,4 +97,5 @@ for path in paths:
 
     plt.suptitle(f"Gürültü Azaltma Sonuçları – {filename}", fontsize=14)
     plt.tight_layout()
+
     plt.show()
